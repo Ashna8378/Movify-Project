@@ -10,7 +10,7 @@ document.getElementById('search-btn').addEventListener('click', function() {
 async function getMovieData(movieName) {
     try {
         let apiKey = '92618d1';
-        let url = `http://www.omdbapi.com/?s=${movieName}&apikey=${apiKey}`;
+        let url = `https://www.omdbapi.com/?s=${movieName}&apikey=${apiKey}`;
         
         let response = await fetch(url);
         
