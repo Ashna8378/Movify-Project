@@ -1,11 +1,6 @@
 # Movify-Project
 Movify is a web application that allows users to search for movies using the OMDB API. This project is built with HTML, CSS, and JavaScript.
 
-## Features
-
-- Search for movies by title.
-- Display movie details such as title, year, genre, and plot.
-
 ## Technologies Used
 
 - HTML
